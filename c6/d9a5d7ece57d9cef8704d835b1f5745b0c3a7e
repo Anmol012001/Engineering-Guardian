@@ -1,0 +1,57 @@
+README.md
+  h_fc6db9a3926aba 1-209
+docs/REQ-001.md
+  h_fc6db9a3926aba 25-68
+  h_fc6db9a3926aba 1-24
+test-project/tests/userService.test.ts
+  s_7ef7b31f765559::t_8c0c2fecb84478 57-109
+  s_1cc0d00ca557f7::t_40a2e091de7bc7 4,110-166
+  s_1cc0d00ca557f7::t_7103ef7809b73c 167
+docs/USAGE.md
+  h_fc6db9a3926aba 1-25
+.github/copilot-instructions.md
+  h_fc6db9a3926aba 1-101
+docs/ARCHITECTURE.md
+  h_fc6db9a3926aba 1-75
+test-project/src/users/userService.ts
+  s_7ef7b31f765559::t_8c0c2fecb84478 10-13
+  s_1cc0d00ca557f7::t_14d1b59e09c17c 14-17
+.github/agents/engineering-guardian.agent.md
+  h_fc6db9a3926aba 3,8,10,12,14,16,18-77,79-97,99,101,103,105,107,109-111,113,115,117-124,126,128,130,132,134,136,138,140,142,144-161,163-167,169-629
+  h_fc6db9a3926aba 1-2,4-7,9,11,13,15,17,78,98,100,102,104,106,108,112,114,116,125,127,129,131,133,135,137,139,141,143,162,168
+docs/SETUP.md
+  h_fc6db9a3926aba 1-28
+test-project/tsconfig.json
+  h_fc6db9a3926aba 12
+.gitignore
+  h_fc6db9a3926aba 1-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c6d9a5d7ece57d9cef8704d835b1f5745b0c3a7e",
+  "prompts": {},
+  "humans": {
+    "h_fc6db9a3926aba": {
+      "author": "JAISWAL Anmol <anmol.jaiswal@soprasteria.com>"
+    }
+  },
+  "sessions": {
+    "s_1cc0d00ca557f7": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "3046518f-414f-4410-890d-f6c8927c06f5",
+        "model": "mai-code-1.1-flash"
+      },
+      "human_author": "JAISWAL Anmol <anmol.jaiswal@soprasteria.com>"
+    },
+    "s_7ef7b31f765559": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "979e5f56-7c58-42e9-b3a3-a357174cf5d0",
+        "model": "gpt-5.4"
+      },
+      "human_author": "JAISWAL Anmol <anmol.jaiswal@soprasteria.com>"
+    }
+  }
+}
