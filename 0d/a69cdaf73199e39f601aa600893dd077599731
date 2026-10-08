@@ -1,0 +1,1468 @@
+.github/agents/engineering-guardian.agent.md
+  h_fc6db9a3926aba 1-132
+.github/skills/code-change-planner/SKILL.md
+  h_fc6db9a3926aba 1-193
+.github/skills/code-review/SKILL.md
+  h_fc6db9a3926aba 1-113
+.github/skills/requirement-analyzer/SKILL.md
+  h_fc6db9a3926aba 1-220
+.github/skills/test-generator/SKILL.md
+  h_fc6db9a3926aba 1-132
+docs/REQ-001.md
+  h_fc6db9a3926aba 1-24
+test-project/node_modules/.bin/esbuild
+  h_fc6db9a3926aba 1-16
+test-project/node_modules/.bin/esbuild.cmd
+  h_fc6db9a3926aba 1-17
+test-project/node_modules/.bin/esbuild.ps1
+  h_fc6db9a3926aba 1-28
+test-project/node_modules/.bin/tsc
+  h_fc6db9a3926aba 1-16
+test-project/node_modules/.bin/tsc.cmd
+  h_fc6db9a3926aba 1-17
+test-project/node_modules/.bin/tsc.ps1
+  h_fc6db9a3926aba 1-28
+test-project/node_modules/.bin/tsx
+  h_fc6db9a3926aba 1-16
+test-project/node_modules/.bin/tsx.cmd
+  h_fc6db9a3926aba 1-17
+test-project/node_modules/.bin/tsx.ps1
+  h_fc6db9a3926aba 1-28
+test-project/node_modules/.package-lock.json
+  h_fc6db9a3926aba 1-155
+test-project/node_modules/@esbuild/win32-x64/README.md
+  h_fc6db9a3926aba 1-3
+test-project/node_modules/@esbuild/win32-x64/package.json
+  h_fc6db9a3926aba 1-20
+test-project/node_modules/@types/node/LICENSE
+  h_fc6db9a3926aba 1-21
+test-project/node_modules/@types/node/README.md
+  h_fc6db9a3926aba 1-15
+test-project/node_modules/@types/node/assert.d.ts
+  h_fc6db9a3926aba 1-1077
+test-project/node_modules/@types/node/assert/strict.d.ts
+  h_fc6db9a3926aba 1-68
+test-project/node_modules/@types/node/async_hooks.d.ts
+  h_fc6db9a3926aba 1-711
+test-project/node_modules/@types/node/buffer.buffer.d.ts
+  h_fc6db9a3926aba 1-471
+test-project/node_modules/@types/node/buffer.d.ts
+  h_fc6db9a3926aba 1-1800
+test-project/node_modules/@types/node/child_process.d.ts
+  h_fc6db9a3926aba 1-1361
+test-project/node_modules/@types/node/cluster.d.ts
+  h_fc6db9a3926aba 1-432
+test-project/node_modules/@types/node/console.d.ts
+  h_fc6db9a3926aba 1-93
+test-project/node_modules/@types/node/constants.d.ts
+  h_fc6db9a3926aba 1-14
+test-project/node_modules/@types/node/crypto.d.ts
+  h_fc6db9a3926aba 1-3964
+test-project/node_modules/@types/node/dgram.d.ts
+  h_fc6db9a3926aba 1-652
+test-project/node_modules/@types/node/diagnostics_channel.d.ts
+  h_fc6db9a3926aba 1-794
+test-project/node_modules/@types/node/dns.d.ts
+  h_fc6db9a3926aba 1-876
+test-project/node_modules/@types/node/dns/promises.d.ts
+  h_fc6db9a3926aba 1-497
+test-project/node_modules/@types/node/domain.d.ts
+  h_fc6db9a3926aba 1-150
+test-project/node_modules/@types/node/events.d.ts
+  h_fc6db9a3926aba 1-1008
+test-project/node_modules/@types/node/ffi.d.ts
+  h_fc6db9a3926aba 1-500
+test-project/node_modules/@types/node/fs.d.ts
+  h_fc6db9a3926aba 1-4803
+test-project/node_modules/@types/node/fs/promises.d.ts
+  h_fc6db9a3926aba 1-1477
+test-project/node_modules/@types/node/globals.d.ts
+  h_fc6db9a3926aba 1-150
+test-project/node_modules/@types/node/globals.typedarray.d.ts
+  h_fc6db9a3926aba 1-101
+test-project/node_modules/@types/node/http.d.ts
+  h_fc6db9a3926aba 1-2218
+test-project/node_modules/@types/node/http2.d.ts
+  h_fc6db9a3926aba 1-2498
+test-project/node_modules/@types/node/https.d.ts
+  h_fc6db9a3926aba 1-400
+test-project/node_modules/@types/node/index.d.ts
+  h_fc6db9a3926aba 1-116
+test-project/node_modules/@types/node/inspector.d.ts
+  h_fc6db9a3926aba 1-265
+test-project/node_modules/@types/node/inspector.generated.d.ts
+  h_fc6db9a3926aba 1-4406
+test-project/node_modules/@types/node/inspector/promises.d.ts
+  h_fc6db9a3926aba 1-35
+test-project/node_modules/@types/node/module.d.ts
+  h_fc6db9a3926aba 1-726
+test-project/node_modules/@types/node/net.d.ts
+  h_fc6db9a3926aba 1-1074
+test-project/node_modules/@types/node/os.d.ts
+  h_fc6db9a3926aba 1-498
+test-project/node_modules/@types/node/package.json
+  h_fc6db9a3926aba 1-140
+test-project/node_modules/@types/node/path.d.ts
+  h_fc6db9a3926aba 1-178
+test-project/node_modules/@types/node/path/posix.d.ts
+  h_fc6db9a3926aba 1-8
+test-project/node_modules/@types/node/path/win32.d.ts
+  h_fc6db9a3926aba 1-8
+test-project/node_modules/@types/node/perf_hooks.d.ts
+  h_fc6db9a3926aba 1-617
+test-project/node_modules/@types/node/process.d.ts
+  h_fc6db9a3926aba 1-2269
+test-project/node_modules/@types/node/punycode.d.ts
+  h_fc6db9a3926aba 1-89
+test-project/node_modules/@types/node/querystring.d.ts
+  h_fc6db9a3926aba 1-139
+test-project/node_modules/@types/node/quic.d.ts
+  h_fc6db9a3926aba 1-2191
+test-project/node_modules/@types/node/readline.d.ts
+  h_fc6db9a3926aba 1-508
+test-project/node_modules/@types/node/readline/promises.d.ts
+  h_fc6db9a3926aba 1-158
+test-project/node_modules/@types/node/repl.d.ts
+  h_fc6db9a3926aba 1-420
+test-project/node_modules/@types/node/sea.d.ts
+  h_fc6db9a3926aba 1-47
+test-project/node_modules/@types/node/sqlite.d.ts
+  h_fc6db9a3926aba 1-1140
+test-project/node_modules/@types/node/stream.d.ts
+  h_fc6db9a3926aba 1-1806
+test-project/node_modules/@types/node/stream/consumers.d.ts
+  h_fc6db9a3926aba 1-114
+test-project/node_modules/@types/node/stream/iter.d.ts
+  h_fc6db9a3926aba 1-449
+test-project/node_modules/@types/node/stream/promises.d.ts
+  h_fc6db9a3926aba 1-211
+test-project/node_modules/@types/node/stream/web.d.ts
+  h_fc6db9a3926aba 1-320
+test-project/node_modules/@types/node/string_decoder.d.ts
+  h_fc6db9a3926aba 1-27
+test-project/node_modules/@types/node/test.d.ts
+  h_fc6db9a3926aba 1-2558
+test-project/node_modules/@types/node/test/reporters.d.ts
+  h_fc6db9a3926aba 1-60
+test-project/node_modules/@types/node/timers.d.ts
+  h_fc6db9a3926aba 1-149
+test-project/node_modules/@types/node/timers/promises.d.ts
+  h_fc6db9a3926aba 1-93
+test-project/node_modules/@types/node/tls.d.ts
+  h_fc6db9a3926aba 1-1232
+test-project/node_modules/@types/node/trace_events.d.ts
+  h_fc6db9a3926aba 1-103
+test-project/node_modules/@types/node/ts5.6/buffer.buffer.d.ts
+  h_fc6db9a3926aba 1-467
+test-project/node_modules/@types/node/ts5.6/compatibility/float16array.d.ts
+  h_fc6db9a3926aba 1-71
+test-project/node_modules/@types/node/ts5.6/globals.typedarray.d.ts
+  h_fc6db9a3926aba 1-36
+test-project/node_modules/@types/node/ts5.6/index.d.ts
+  h_fc6db9a3926aba 1-118
+test-project/node_modules/@types/node/ts5.7/compatibility/float16array.d.ts
+  h_fc6db9a3926aba 1-72
+test-project/node_modules/@types/node/ts5.7/index.d.ts
+  h_fc6db9a3926aba 1-118
+test-project/node_modules/@types/node/tty.d.ts
+  h_fc6db9a3926aba 1-226
+test-project/node_modules/@types/node/url.d.ts
+  h_fc6db9a3926aba 1-556
+test-project/node_modules/@types/node/util.d.ts
+  h_fc6db9a3926aba 1-1677
+test-project/node_modules/@types/node/util/types.d.ts
+  h_fc6db9a3926aba 1-558
+test-project/node_modules/@types/node/v8.d.ts
+  h_fc6db9a3926aba 1-1059
+test-project/node_modules/@types/node/vfs.d.ts
+  h_fc6db9a3926aba 1-211
+test-project/node_modules/@types/node/vm.d.ts
+  h_fc6db9a3926aba 1-1137
+test-project/node_modules/@types/node/wasi.d.ts
+  h_fc6db9a3926aba 1-131
+test-project/node_modules/@types/node/web-globals/abortcontroller.d.ts
+  h_fc6db9a3926aba 1-59
+test-project/node_modules/@types/node/web-globals/blob.d.ts
+  h_fc6db9a3926aba 1-23
+test-project/node_modules/@types/node/web-globals/console.d.ts
+  h_fc6db9a3926aba 1-9
+test-project/node_modules/@types/node/web-globals/crypto.d.ts
+  h_fc6db9a3926aba 1-39
+test-project/node_modules/@types/node/web-globals/domexception.d.ts
+  h_fc6db9a3926aba 1-83
+test-project/node_modules/@types/node/web-globals/encoding.d.ts
+  h_fc6db9a3926aba 1-11
+test-project/node_modules/@types/node/web-globals/events.d.ts
+  h_fc6db9a3926aba 1-106
+test-project/node_modules/@types/node/web-globals/fetch.d.ts
+  h_fc6db9a3926aba 1-69
+test-project/node_modules/@types/node/web-globals/importmeta.d.ts
+  h_fc6db9a3926aba 1-13
+test-project/node_modules/@types/node/web-globals/messaging.d.ts
+  h_fc6db9a3926aba 1-23
+test-project/node_modules/@types/node/web-globals/navigator.d.ts
+  h_fc6db9a3926aba 1-25
+test-project/node_modules/@types/node/web-globals/performance.d.ts
+  h_fc6db9a3926aba 1-45
+test-project/node_modules/@types/node/web-globals/storage.d.ts
+  h_fc6db9a3926aba 1-24
+test-project/node_modules/@types/node/web-globals/streams.d.ts
+  h_fc6db9a3926aba 1-119
+test-project/node_modules/@types/node/web-globals/timers.d.ts
+  h_fc6db9a3926aba 1-44
+test-project/node_modules/@types/node/web-globals/url.d.ts
+  h_fc6db9a3926aba 1-24
+test-project/node_modules/@types/node/worker_threads.d.ts
+  h_fc6db9a3926aba 1-672
+test-project/node_modules/@types/node/zlib.d.ts
+  h_fc6db9a3926aba 1-612
+test-project/node_modules/@types/node/zlib/iter.d.ts
+  h_fc6db9a3926aba 1-131
+test-project/node_modules/@typescript/typescript-win32-x64/LICENSE
+  h_fc6db9a3926aba 1-55
+test-project/node_modules/@typescript/typescript-win32-x64/NOTICE.txt
+  h_fc6db9a3926aba 1-436
+test-project/node_modules/@typescript/typescript-win32-x64/README.md
+  h_fc6db9a3926aba 1-3
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.d.ts
+  h_fc6db9a3926aba 1-20
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.decorators.d.ts
+  h_fc6db9a3926aba 1-382
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.decorators.legacy.d.ts
+  h_fc6db9a3926aba 1-20
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.dom.asynciterable.d.ts
+  h_fc6db9a3926aba 1-18
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.dom.d.ts
+  h_fc6db9a3926aba 1-45125
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.dom.iterable.d.ts
+  h_fc6db9a3926aba 1-18
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2015.collection.d.ts
+  h_fc6db9a3926aba 1-159
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2015.core.d.ts
+  h_fc6db9a3926aba 1-595
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2015.d.ts
+  h_fc6db9a3926aba 1-26
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2015.generator.d.ts
+  h_fc6db9a3926aba 1-75
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2015.iterable.d.ts
+  h_fc6db9a3926aba 1-603
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2015.promise.d.ts
+  h_fc6db9a3926aba 1-79
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2015.proxy.d.ts
+  h_fc6db9a3926aba 1-126
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2015.reflect.d.ts
+  h_fc6db9a3926aba 1-142
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2015.symbol.d.ts
+  h_fc6db9a3926aba 1-44
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2015.symbol.wellknown.d.ts
+  h_fc6db9a3926aba 1-324
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2016.array.include.d.ts
+  h_fc6db9a3926aba 1-114
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2016.d.ts
+  h_fc6db9a3926aba 1-19
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2016.full.d.ts
+  h_fc6db9a3926aba 1-21
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2016.intl.d.ts
+  h_fc6db9a3926aba 1-29
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2017.arraybuffer.d.ts
+  h_fc6db9a3926aba 1-19
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2017.d.ts
+  h_fc6db9a3926aba 1-24
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2017.date.d.ts
+  h_fc6db9a3926aba 1-29
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2017.full.d.ts
+  h_fc6db9a3926aba 1-21
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2017.intl.d.ts
+  h_fc6db9a3926aba 1-42
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2017.object.d.ts
+  h_fc6db9a3926aba 1-47
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2017.sharedmemory.d.ts
+  h_fc6db9a3926aba 1-133
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2017.string.d.ts
+  h_fc6db9a3926aba 1-47
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2017.typedarrays.d.ts
+  h_fc6db9a3926aba 1-51
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2018.asyncgenerator.d.ts
+  h_fc6db9a3926aba 1-75
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2018.asynciterable.d.ts
+  h_fc6db9a3926aba 1-51
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2018.d.ts
+  h_fc6db9a3926aba 1-22
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2018.full.d.ts
+  h_fc6db9a3926aba 1-22
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2018.intl.d.ts
+  h_fc6db9a3926aba 1-81
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2018.promise.d.ts
+  h_fc6db9a3926aba 1-28
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2018.regexp.d.ts
+  h_fc6db9a3926aba 1-35
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2019.array.d.ts
+  h_fc6db9a3926aba 1-77
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2019.d.ts
+  h_fc6db9a3926aba 1-22
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2019.full.d.ts
+  h_fc6db9a3926aba 1-22
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2019.intl.d.ts
+  h_fc6db9a3926aba 1-21
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2019.object.d.ts
+  h_fc6db9a3926aba 1-31
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2019.string.d.ts
+  h_fc6db9a3926aba 1-35
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2019.symbol.d.ts
+  h_fc6db9a3926aba 1-22
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2020.bigint.d.ts
+  h_fc6db9a3926aba 1-763
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2020.d.ts
+  h_fc6db9a3926aba 1-25
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2020.date.d.ts
+  h_fc6db9a3926aba 1-40
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2020.full.d.ts
+  h_fc6db9a3926aba 1-22
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2020.intl.d.ts
+  h_fc6db9a3926aba 1-472
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2020.number.d.ts
+  h_fc6db9a3926aba 1-26
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2020.promise.d.ts
+  h_fc6db9a3926aba 1-45
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2020.sharedmemory.d.ts
+  h_fc6db9a3926aba 1-97
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2020.string.d.ts
+  h_fc6db9a3926aba 1-42
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2020.symbol.wellknown.d.ts
+  h_fc6db9a3926aba 1-39
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2021.d.ts
+  h_fc6db9a3926aba 1-21
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2021.full.d.ts
+  h_fc6db9a3926aba 1-22
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2021.intl.d.ts
+  h_fc6db9a3926aba 1-164
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2021.promise.d.ts
+  h_fc6db9a3926aba 1-46
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2021.string.d.ts
+  h_fc6db9a3926aba 1-31
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2021.weakref.d.ts
+  h_fc6db9a3926aba 1-76
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2022.array.d.ts
+  h_fc6db9a3926aba 1-119
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2022.d.ts
+  h_fc6db9a3926aba 1-23
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2022.error.d.ts
+  h_fc6db9a3926aba 1-73
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2022.full.d.ts
+  h_fc6db9a3926aba 1-22
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2022.intl.d.ts
+  h_fc6db9a3926aba 1-143
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2022.object.d.ts
+  h_fc6db9a3926aba 1-24
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2022.regexp.d.ts
+  h_fc6db9a3926aba 1-37
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2022.string.d.ts
+  h_fc6db9a3926aba 1-23
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2023.array.d.ts
+  h_fc6db9a3926aba 1-922
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2023.collection.d.ts
+  h_fc6db9a3926aba 1-19
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2023.d.ts
+  h_fc6db9a3926aba 1-20
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2023.full.d.ts
+  h_fc6db9a3926aba 1-22
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2023.intl.d.ts
+  h_fc6db9a3926aba 1-62
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2024.arraybuffer.d.ts
+  h_fc6db9a3926aba 1-63
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2024.collection.d.ts
+  h_fc6db9a3926aba 1-27
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2024.d.ts
+  h_fc6db9a3926aba 1-24
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2024.full.d.ts
+  h_fc6db9a3926aba 1-22
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2024.object.d.ts
+  h_fc6db9a3926aba 1-27
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2024.promise.d.ts
+  h_fc6db9a3926aba 1-33
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2024.regexp.d.ts
+  h_fc6db9a3926aba 1-23
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2024.sharedmemory.d.ts
+  h_fc6db9a3926aba 1-66
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2024.string.d.ts
+  h_fc6db9a3926aba 1-27
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2025.collection.d.ts
+  h_fc6db9a3926aba 1-94
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2025.d.ts
+  h_fc6db9a3926aba 1-23
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2025.float16.d.ts
+  h_fc6db9a3926aba 1-443
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2025.full.d.ts
+  h_fc6db9a3926aba 1-22
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2025.intl.d.ts
+  h_fc6db9a3926aba 1-200
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2025.iterator.d.ts
+  h_fc6db9a3926aba 1-146
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2025.promise.d.ts
+  h_fc6db9a3926aba 1-32
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es2025.regexp.d.ts
+  h_fc6db9a3926aba 1-30
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es5.d.ts
+  h_fc6db9a3926aba 1-4599
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.es6.d.ts
+  h_fc6db9a3926aba 1-21
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.esnext.array.d.ts
+  h_fc6db9a3926aba 1-33
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.esnext.collection.d.ts
+  h_fc6db9a3926aba 1-47
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.esnext.d.ts
+  h_fc6db9a3926aba 1-27
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.esnext.date.d.ts
+  h_fc6db9a3926aba 1-21
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.esnext.decorators.d.ts
+  h_fc6db9a3926aba 1-26
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.esnext.disposable.d.ts
+  h_fc6db9a3926aba 1-191
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.esnext.error.d.ts
+  h_fc6db9a3926aba 1-22
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.esnext.full.d.ts
+  h_fc6db9a3926aba 1-22
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.esnext.intl.d.ts
+  h_fc6db9a3926aba 1-107
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.esnext.sharedmemory.d.ts
+  h_fc6db9a3926aba 1-23
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.esnext.temporal.d.ts
+  h_fc6db9a3926aba 1-485
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.esnext.typedarrays.d.ts
+  h_fc6db9a3926aba 1-90
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.scripthost.d.ts
+  h_fc6db9a3926aba 1-320
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.webworker.asynciterable.d.ts
+  h_fc6db9a3926aba 1-18
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.webworker.d.ts
+  h_fc6db9a3926aba 1-15606
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.webworker.importscripts.d.ts
+  h_fc6db9a3926aba 1-21
+test-project/node_modules/@typescript/typescript-win32-x64/lib/lib.webworker.iterable.d.ts
+  h_fc6db9a3926aba 1-18
+test-project/node_modules/@typescript/typescript-win32-x64/package.json
+  h_fc6db9a3926aba 1-45
+test-project/node_modules/esbuild/LICENSE.md
+  h_fc6db9a3926aba 1-21
+test-project/node_modules/esbuild/README.md
+  h_fc6db9a3926aba 1-3
+test-project/node_modules/esbuild/bin/esbuild
+  h_fc6db9a3926aba 1-223
+test-project/node_modules/esbuild/install.js
+  h_fc6db9a3926aba 1-300
+test-project/node_modules/esbuild/lib/main.d.ts
+  h_fc6db9a3926aba 1-720
+test-project/node_modules/esbuild/lib/main.js
+  h_fc6db9a3926aba 1-2536
+test-project/node_modules/esbuild/package.json
+  h_fc6db9a3926aba 1-74
+test-project/node_modules/tsx/LICENSE
+  h_fc6db9a3926aba 1-21
+test-project/node_modules/tsx/README.md
+  h_fc6db9a3926aba 1-32
+test-project/node_modules/tsx/dist/cjs/api/index.cjs
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/tsx/dist/cjs/api/index.d.cts
+  h_fc6db9a3926aba 1-35
+test-project/node_modules/tsx/dist/cjs/api/index.d.mts
+  h_fc6db9a3926aba 1-35
+test-project/node_modules/tsx/dist/cjs/api/index.mjs
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/tsx/dist/cjs/index.cjs
+  h_fc6db9a3926aba 1
+test-project/node_modules/tsx/dist/cli.mjs
+  h_fc6db9a3926aba 1-55
+test-project/node_modules/tsx/dist/client-XItNFmsq.cjs
+  h_fc6db9a3926aba 1
+test-project/node_modules/tsx/dist/esm/api/index.cjs
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/tsx/dist/esm/api/index.d.cts
+  h_fc6db9a3926aba 1-37
+test-project/node_modules/tsx/dist/esm/api/index.d.mts
+  h_fc6db9a3926aba 1-37
+test-project/node_modules/tsx/dist/esm/api/index.mjs
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/tsx/dist/esm/index.mjs
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/tsx/dist/index-Bqjv9TxC.mjs
+  h_fc6db9a3926aba 1
+test-project/node_modules/tsx/dist/index-DE3OBZuV.mjs
+  h_fc6db9a3926aba 1-14
+test-project/node_modules/tsx/dist/lexer-CGfpMDSb.cjs
+  h_fc6db9a3926aba 1-3
+test-project/node_modules/tsx/dist/lexer-CanA6ArK.mjs
+  h_fc6db9a3926aba 1-3
+test-project/node_modules/tsx/dist/loader.mjs
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/tsx/dist/package-Dj0mHsMt.mjs
+  h_fc6db9a3926aba 1
+test-project/node_modules/tsx/dist/patch-repl.cjs
+  h_fc6db9a3926aba 1
+test-project/node_modules/tsx/dist/preflight.cjs
+  h_fc6db9a3926aba 1
+test-project/node_modules/tsx/dist/register-B1c7OH6V.cjs
+  h_fc6db9a3926aba 1-23
+test-project/node_modules/tsx/dist/register-nyXW-TH3.mjs
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/tsx/dist/repl.mjs
+  h_fc6db9a3926aba 1-4
+test-project/node_modules/tsx/dist/require-CBjy4Foe.mjs
+  h_fc6db9a3926aba 1-10
+test-project/node_modules/tsx/dist/require-CVaYn9z3.cjs
+  h_fc6db9a3926aba 1
+test-project/node_modules/tsx/dist/suppress-warnings.cjs
+  h_fc6db9a3926aba 1
+test-project/node_modules/tsx/dist/temporary-directory-Du7LpLp9.mjs
+  h_fc6db9a3926aba 1
+test-project/node_modules/tsx/package.json
+  h_fc6db9a3926aba 1-70
+test-project/node_modules/typescript/LICENSE
+  h_fc6db9a3926aba 1-55
+test-project/node_modules/typescript/NOTICE.txt
+  h_fc6db9a3926aba 1-436
+test-project/node_modules/typescript/README.md
+  h_fc6db9a3926aba 1-49
+test-project/node_modules/typescript/bin/tsc
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/api/async/api.d.ts
+  h_fc6db9a3926aba 1-529
+test-project/node_modules/typescript/dist/api/async/api.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/async/api.js
+  h_fc6db9a3926aba 1-1657
+test-project/node_modules/typescript/dist/api/async/api.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/async/client.d.ts
+  h_fc6db9a3926aba 1-39
+test-project/node_modules/typescript/dist/api/async/client.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/async/client.js
+  h_fc6db9a3926aba 1-211
+test-project/node_modules/typescript/dist/api/async/client.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/async/types.d.ts
+  h_fc6db9a3926aba 1-310
+test-project/node_modules/typescript/dist/api/async/types.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/async/types.js
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/api/async/types.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/compilerOptions.d.ts
+  h_fc6db9a3926aba 1-109
+test-project/node_modules/typescript/dist/api/compilerOptions.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/compilerOptions.js
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/api/compilerOptions.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/fs.d.ts
+  h_fc6db9a3926aba 1-23
+test-project/node_modules/typescript/dist/api/fs.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/fs.js
+  h_fc6db9a3926aba 1-109
+test-project/node_modules/typescript/dist/api/fs.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/node/encoder.d.ts
+  h_fc6db9a3926aba 1-15
+test-project/node_modules/typescript/dist/api/node/encoder.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/node/encoder.generated.d.ts
+  h_fc6db9a3926aba 1-5
+test-project/node_modules/typescript/dist/api/node/encoder.generated.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/node/encoder.generated.js
+  h_fc6db9a3926aba 1-74
+test-project/node_modules/typescript/dist/api/node/encoder.generated.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/node/encoder.js
+  h_fc6db9a3926aba 1-287
+test-project/node_modules/typescript/dist/api/node/encoder.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/node/msgpack.d.ts
+  h_fc6db9a3926aba 1-32
+test-project/node_modules/typescript/dist/api/node/msgpack.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/node/msgpack.js
+  h_fc6db9a3926aba 1-213
+test-project/node_modules/typescript/dist/api/node/msgpack.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/node/node.d.ts
+  h_fc6db9a3926aba 1-76
+test-project/node_modules/typescript/dist/api/node/node.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/node/node.generated.d.ts
+  h_fc6db9a3926aba 1-182
+test-project/node_modules/typescript/dist/api/node/node.generated.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/node/node.generated.js
+  h_fc6db9a3926aba 1-835
+test-project/node_modules/typescript/dist/api/node/node.generated.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/node/node.infrastructure.d.ts
+  h_fc6db9a3926aba 1-62
+test-project/node_modules/typescript/dist/api/node/node.infrastructure.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/node/node.infrastructure.js
+  h_fc6db9a3926aba 1-122
+test-project/node_modules/typescript/dist/api/node/node.infrastructure.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/node/node.js
+  h_fc6db9a3926aba 1-298
+test-project/node_modules/typescript/dist/api/node/node.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/node/protocol.d.ts
+  h_fc6db9a3926aba 1-29
+test-project/node_modules/typescript/dist/api/node/protocol.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/node/protocol.generated.d.ts
+  h_fc6db9a3926aba 1-4
+test-project/node_modules/typescript/dist/api/node/protocol.generated.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/node/protocol.generated.js
+  h_fc6db9a3926aba 1-241
+test-project/node_modules/typescript/dist/api/node/protocol.generated.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/node/protocol.js
+  h_fc6db9a3926aba 1-30
+test-project/node_modules/typescript/dist/api/node/protocol.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/node/wtf8.d.ts
+  h_fc6db9a3926aba 1-6
+test-project/node_modules/typescript/dist/api/node/wtf8.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/node/wtf8.js
+  h_fc6db9a3926aba 1-61
+test-project/node_modules/typescript/dist/api/node/wtf8.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/options.d.ts
+  h_fc6db9a3926aba 1-32
+test-project/node_modules/typescript/dist/api/options.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/options.js
+  h_fc6db9a3926aba 1-11
+test-project/node_modules/typescript/dist/api/options.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/path.d.ts
+  h_fc6db9a3926aba 1-110
+test-project/node_modules/typescript/dist/api/path.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/path.js
+  h_fc6db9a3926aba 1-508
+test-project/node_modules/typescript/dist/api/path.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/proto.d.ts
+  h_fc6db9a3926aba 1-239
+test-project/node_modules/typescript/dist/api/proto.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/proto.js
+  h_fc6db9a3926aba 1-37
+test-project/node_modules/typescript/dist/api/proto.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/sourceFileCache.d.ts
+  h_fc6db9a3926aba 1-79
+test-project/node_modules/typescript/dist/api/sourceFileCache.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/sourceFileCache.js
+  h_fc6db9a3926aba 1-169
+test-project/node_modules/typescript/dist/api/sourceFileCache.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/sync/api.d.ts
+  h_fc6db9a3926aba 1-529
+test-project/node_modules/typescript/dist/api/sync/api.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/sync/api.js
+  h_fc6db9a3926aba 1-1665
+test-project/node_modules/typescript/dist/api/sync/api.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/sync/client.d.ts
+  h_fc6db9a3926aba 1-30
+test-project/node_modules/typescript/dist/api/sync/client.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/sync/client.js
+  h_fc6db9a3926aba 1-124
+test-project/node_modules/typescript/dist/api/sync/client.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/sync/types.d.ts
+  h_fc6db9a3926aba 1-310
+test-project/node_modules/typescript/dist/api/sync/types.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/sync/types.js
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/api/sync/types.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/syncChannel.d.ts
+  h_fc6db9a3926aba 1-114
+test-project/node_modules/typescript/dist/api/syncChannel.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/syncChannel.js
+  h_fc6db9a3926aba 1-508
+test-project/node_modules/typescript/dist/api/syncChannel.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/timing.d.ts
+  h_fc6db9a3926aba 1-175
+test-project/node_modules/typescript/dist/api/timing.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/api/timing.js
+  h_fc6db9a3926aba 1-149
+test-project/node_modules/typescript/dist/api/timing.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/ast.d.ts
+  h_fc6db9a3926aba 1-100
+test-project/node_modules/typescript/dist/ast/ast.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/ast.generated.d.ts
+  h_fc6db9a3926aba 1-1161
+test-project/node_modules/typescript/dist/ast/ast.generated.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/ast.generated.js
+  h_fc6db9a3926aba 1-4
+test-project/node_modules/typescript/dist/ast/ast.generated.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/ast.js
+  h_fc6db9a3926aba 1-7
+test-project/node_modules/typescript/dist/ast/ast.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/astnav.d.ts
+  h_fc6db9a3926aba 1-19
+test-project/node_modules/typescript/dist/ast/astnav.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/astnav.js
+  h_fc6db9a3926aba 1-596
+test-project/node_modules/typescript/dist/ast/astnav.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/clone.d.ts
+  h_fc6db9a3926aba 1-16
+test-project/node_modules/typescript/dist/ast/clone.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/clone.js
+  h_fc6db9a3926aba 1-104
+test-project/node_modules/typescript/dist/ast/clone.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/factory.generated.d.ts
+  h_fc6db9a3926aba 1-520
+test-project/node_modules/typescript/dist/ast/factory.generated.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/factory.generated.js
+  h_fc6db9a3926aba 1-3057
+test-project/node_modules/typescript/dist/ast/factory.generated.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/index.d.ts
+  h_fc6db9a3926aba 1-20
+test-project/node_modules/typescript/dist/ast/index.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/index.js
+  h_fc6db9a3926aba 1-20
+test-project/node_modules/typescript/dist/ast/index.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/is.d.ts
+  h_fc6db9a3926aba 1-35
+test-project/node_modules/typescript/dist/ast/is.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/is.generated.d.ts
+  h_fc6db9a3926aba 1-329
+test-project/node_modules/typescript/dist/ast/is.generated.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/is.generated.js
+  h_fc6db9a3926aba 1-1103
+test-project/node_modules/typescript/dist/ast/is.generated.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/is.js
+  h_fc6db9a3926aba 1-233
+test-project/node_modules/typescript/dist/ast/is.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/jsdoc.d.ts
+  h_fc6db9a3926aba 1-11
+test-project/node_modules/typescript/dist/ast/jsdoc.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/jsdoc.js
+  h_fc6db9a3926aba 1-202
+test-project/node_modules/typescript/dist/ast/jsdoc.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/scanner.d.ts
+  h_fc6db9a3926aba 1-97
+test-project/node_modules/typescript/dist/ast/scanner.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/scanner.js
+  h_fc6db9a3926aba 1-2230
+test-project/node_modules/typescript/dist/ast/scanner.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/utils.d.ts
+  h_fc6db9a3926aba 1-17
+test-project/node_modules/typescript/dist/ast/utils.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/utils.js
+  h_fc6db9a3926aba 1-67
+test-project/node_modules/typescript/dist/ast/utils.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/visitor.d.ts
+  h_fc6db9a3926aba 1-14
+test-project/node_modules/typescript/dist/ast/visitor.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/visitor.generated.d.ts
+  h_fc6db9a3926aba 1-50
+test-project/node_modules/typescript/dist/ast/visitor.generated.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/visitor.generated.js
+  h_fc6db9a3926aba 1-978
+test-project/node_modules/typescript/dist/ast/visitor.generated.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/ast/visitor.js
+  h_fc6db9a3926aba 1-47
+test-project/node_modules/typescript/dist/ast/visitor.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/characterCodes.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/characterCodes.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/characterCodes.enum.d.ts
+  h_fc6db9a3926aba 1-129
+test-project/node_modules/typescript/dist/enums/characterCodes.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/characterCodes.enum.js
+  h_fc6db9a3926aba 1-132
+test-project/node_modules/typescript/dist/enums/characterCodes.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/characterCodes.js
+  h_fc6db9a3926aba 1-130
+test-project/node_modules/typescript/dist/enums/characterCodes.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/commentDirectiveType.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/commentDirectiveType.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/commentDirectiveType.enum.d.ts
+  h_fc6db9a3926aba 1-5
+test-project/node_modules/typescript/dist/enums/commentDirectiveType.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/commentDirectiveType.enum.js
+  h_fc6db9a3926aba 1-6
+test-project/node_modules/typescript/dist/enums/commentDirectiveType.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/commentDirectiveType.js
+  h_fc6db9a3926aba 1-6
+test-project/node_modules/typescript/dist/enums/commentDirectiveType.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/completionItemKind.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/completionItemKind.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/completionItemKind.enum.d.ts
+  h_fc6db9a3926aba 1-28
+test-project/node_modules/typescript/dist/enums/completionItemKind.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/completionItemKind.enum.js
+  h_fc6db9a3926aba 1-30
+test-project/node_modules/typescript/dist/enums/completionItemKind.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/completionItemKind.js
+  h_fc6db9a3926aba 1-30
+test-project/node_modules/typescript/dist/enums/completionItemKind.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/diagnosticCategory.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/diagnosticCategory.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/diagnosticCategory.enum.d.ts
+  h_fc6db9a3926aba 1-7
+test-project/node_modules/typescript/dist/enums/diagnosticCategory.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/diagnosticCategory.enum.js
+  h_fc6db9a3926aba 1-9
+test-project/node_modules/typescript/dist/enums/diagnosticCategory.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/diagnosticCategory.js
+  h_fc6db9a3926aba 1-9
+test-project/node_modules/typescript/dist/enums/diagnosticCategory.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/elementFlags.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/elementFlags.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/elementFlags.enum.d.ts
+  h_fc6db9a3926aba 1-12
+test-project/node_modules/typescript/dist/enums/elementFlags.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/elementFlags.enum.js
+  h_fc6db9a3926aba 1-14
+test-project/node_modules/typescript/dist/enums/elementFlags.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/elementFlags.js
+  h_fc6db9a3926aba 1-14
+test-project/node_modules/typescript/dist/enums/elementFlags.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/internalSymbolName.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/internalSymbolName.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/internalSymbolName.enum.d.ts
+  h_fc6db9a3926aba 1-23
+test-project/node_modules/typescript/dist/enums/internalSymbolName.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/internalSymbolName.enum.js
+  h_fc6db9a3926aba 1-25
+test-project/node_modules/typescript/dist/enums/internalSymbolName.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/internalSymbolName.js
+  h_fc6db9a3926aba 1-25
+test-project/node_modules/typescript/dist/enums/internalSymbolName.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/jsxEmit.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/jsxEmit.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/jsxEmit.enum.d.ts
+  h_fc6db9a3926aba 1-9
+test-project/node_modules/typescript/dist/enums/jsxEmit.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/jsxEmit.enum.js
+  h_fc6db9a3926aba 1-11
+test-project/node_modules/typescript/dist/enums/jsxEmit.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/jsxEmit.js
+  h_fc6db9a3926aba 1-11
+test-project/node_modules/typescript/dist/enums/jsxEmit.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/languageVariant.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/languageVariant.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/languageVariant.enum.d.ts
+  h_fc6db9a3926aba 1-5
+test-project/node_modules/typescript/dist/enums/languageVariant.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/languageVariant.enum.js
+  h_fc6db9a3926aba 1-6
+test-project/node_modules/typescript/dist/enums/languageVariant.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/languageVariant.js
+  h_fc6db9a3926aba 1-6
+test-project/node_modules/typescript/dist/enums/languageVariant.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/modifierFlags.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/modifierFlags.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/modifierFlags.enum.d.ts
+  h_fc6db9a3926aba 1-42
+test-project/node_modules/typescript/dist/enums/modifierFlags.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/modifierFlags.enum.js
+  h_fc6db9a3926aba 1-44
+test-project/node_modules/typescript/dist/enums/modifierFlags.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/modifierFlags.js
+  h_fc6db9a3926aba 1-44
+test-project/node_modules/typescript/dist/enums/modifierFlags.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/moduleDetectionKind.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/moduleDetectionKind.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/moduleDetectionKind.enum.d.ts
+  h_fc6db9a3926aba 1-7
+test-project/node_modules/typescript/dist/enums/moduleDetectionKind.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/moduleDetectionKind.enum.js
+  h_fc6db9a3926aba 1-9
+test-project/node_modules/typescript/dist/enums/moduleDetectionKind.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/moduleDetectionKind.js
+  h_fc6db9a3926aba 1-9
+test-project/node_modules/typescript/dist/enums/moduleDetectionKind.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/moduleKind.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/moduleKind.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/moduleKind.enum.d.ts
+  h_fc6db9a3926aba 1-17
+test-project/node_modules/typescript/dist/enums/moduleKind.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/moduleKind.enum.js
+  h_fc6db9a3926aba 1-19
+test-project/node_modules/typescript/dist/enums/moduleKind.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/moduleKind.js
+  h_fc6db9a3926aba 1-19
+test-project/node_modules/typescript/dist/enums/moduleKind.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/moduleResolutionKind.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/moduleResolutionKind.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/moduleResolutionKind.enum.d.ts
+  h_fc6db9a3926aba 1-9
+test-project/node_modules/typescript/dist/enums/moduleResolutionKind.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/moduleResolutionKind.enum.js
+  h_fc6db9a3926aba 1-11
+test-project/node_modules/typescript/dist/enums/moduleResolutionKind.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/moduleResolutionKind.js
+  h_fc6db9a3926aba 1-11
+test-project/node_modules/typescript/dist/enums/moduleResolutionKind.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/newLineKind.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/newLineKind.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/newLineKind.enum.d.ts
+  h_fc6db9a3926aba 1-6
+test-project/node_modules/typescript/dist/enums/newLineKind.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/newLineKind.enum.js
+  h_fc6db9a3926aba 1-8
+test-project/node_modules/typescript/dist/enums/newLineKind.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/newLineKind.js
+  h_fc6db9a3926aba 1-8
+test-project/node_modules/typescript/dist/enums/newLineKind.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/nodeBuilderFlags.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/nodeBuilderFlags.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/nodeBuilderFlags.enum.d.ts
+  h_fc6db9a3926aba 1-36
+test-project/node_modules/typescript/dist/enums/nodeBuilderFlags.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/nodeBuilderFlags.enum.js
+  h_fc6db9a3926aba 1-38
+test-project/node_modules/typescript/dist/enums/nodeBuilderFlags.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/nodeBuilderFlags.js
+  h_fc6db9a3926aba 1-38
+test-project/node_modules/typescript/dist/enums/nodeBuilderFlags.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/nodeFlags.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/nodeFlags.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/nodeFlags.enum.d.ts
+  h_fc6db9a3926aba 1-44
+test-project/node_modules/typescript/dist/enums/nodeFlags.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/nodeFlags.enum.js
+  h_fc6db9a3926aba 1-46
+test-project/node_modules/typescript/dist/enums/nodeFlags.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/nodeFlags.js
+  h_fc6db9a3926aba 1-46
+test-project/node_modules/typescript/dist/enums/nodeFlags.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/objectFlags.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/objectFlags.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/objectFlags.enum.d.ts
+  h_fc6db9a3926aba 1-50
+test-project/node_modules/typescript/dist/enums/objectFlags.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/objectFlags.enum.js
+  h_fc6db9a3926aba 1-52
+test-project/node_modules/typescript/dist/enums/objectFlags.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/objectFlags.js
+  h_fc6db9a3926aba 1-52
+test-project/node_modules/typescript/dist/enums/objectFlags.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/outerExpressionKinds.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/outerExpressionKinds.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/outerExpressionKinds.enum.d.ts
+  h_fc6db9a3926aba 1-16
+test-project/node_modules/typescript/dist/enums/outerExpressionKinds.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/outerExpressionKinds.enum.js
+  h_fc6db9a3926aba 1-18
+test-project/node_modules/typescript/dist/enums/outerExpressionKinds.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/outerExpressionKinds.js
+  h_fc6db9a3926aba 1-18
+test-project/node_modules/typescript/dist/enums/outerExpressionKinds.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/regularExpressionFlags.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/regularExpressionFlags.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/regularExpressionFlags.enum.d.ts
+  h_fc6db9a3926aba 1-13
+test-project/node_modules/typescript/dist/enums/regularExpressionFlags.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/regularExpressionFlags.enum.js
+  h_fc6db9a3926aba 1-14
+test-project/node_modules/typescript/dist/enums/regularExpressionFlags.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/regularExpressionFlags.js
+  h_fc6db9a3926aba 1-14
+test-project/node_modules/typescript/dist/enums/regularExpressionFlags.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/scriptKind.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/scriptKind.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/scriptKind.enum.d.ts
+  h_fc6db9a3926aba 1-11
+test-project/node_modules/typescript/dist/enums/scriptKind.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/scriptKind.enum.js
+  h_fc6db9a3926aba 1-12
+test-project/node_modules/typescript/dist/enums/scriptKind.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/scriptKind.js
+  h_fc6db9a3926aba 1-12
+test-project/node_modules/typescript/dist/enums/scriptKind.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/scriptTarget.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/scriptTarget.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/scriptTarget.enum.d.ts
+  h_fc6db9a3926aba 1-17
+test-project/node_modules/typescript/dist/enums/scriptTarget.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/scriptTarget.enum.js
+  h_fc6db9a3926aba 1-18
+test-project/node_modules/typescript/dist/enums/scriptTarget.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/scriptTarget.js
+  h_fc6db9a3926aba 1-18
+test-project/node_modules/typescript/dist/enums/scriptTarget.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/signatureFlags.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/signatureFlags.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/signatureFlags.enum.d.ts
+  h_fc6db9a3926aba 1-15
+test-project/node_modules/typescript/dist/enums/signatureFlags.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/signatureFlags.enum.js
+  h_fc6db9a3926aba 1-17
+test-project/node_modules/typescript/dist/enums/signatureFlags.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/signatureFlags.js
+  h_fc6db9a3926aba 1-17
+test-project/node_modules/typescript/dist/enums/signatureFlags.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/signatureKind.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/signatureKind.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/signatureKind.enum.d.ts
+  h_fc6db9a3926aba 1-5
+test-project/node_modules/typescript/dist/enums/signatureKind.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/signatureKind.enum.js
+  h_fc6db9a3926aba 1-7
+test-project/node_modules/typescript/dist/enums/signatureKind.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/signatureKind.js
+  h_fc6db9a3926aba 1-7
+test-project/node_modules/typescript/dist/enums/signatureKind.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/symbolFlags.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/symbolFlags.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/symbolFlags.enum.d.ts
+  h_fc6db9a3926aba 1-71
+test-project/node_modules/typescript/dist/enums/symbolFlags.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/symbolFlags.enum.js
+  h_fc6db9a3926aba 1-73
+test-project/node_modules/typescript/dist/enums/symbolFlags.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/symbolFlags.js
+  h_fc6db9a3926aba 1-73
+test-project/node_modules/typescript/dist/enums/symbolFlags.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/syntaxKind.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/syntaxKind.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/syntaxKind.enum.d.ts
+  h_fc6db9a3926aba 1-389
+test-project/node_modules/typescript/dist/enums/syntaxKind.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/syntaxKind.enum.js
+  h_fc6db9a3926aba 1-391
+test-project/node_modules/typescript/dist/enums/syntaxKind.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/syntaxKind.js
+  h_fc6db9a3926aba 1-391
+test-project/node_modules/typescript/dist/enums/syntaxKind.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/tokenFlags.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/tokenFlags.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/tokenFlags.enum.d.ts
+  h_fc6db9a3926aba 1-30
+test-project/node_modules/typescript/dist/enums/tokenFlags.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/tokenFlags.enum.js
+  h_fc6db9a3926aba 1-32
+test-project/node_modules/typescript/dist/enums/tokenFlags.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/tokenFlags.js
+  h_fc6db9a3926aba 1-32
+test-project/node_modules/typescript/dist/enums/tokenFlags.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/typeFlags.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/typeFlags.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/typeFlags.enum.d.ts
+  h_fc6db9a3926aba 1-76
+test-project/node_modules/typescript/dist/enums/typeFlags.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/typeFlags.enum.js
+  h_fc6db9a3926aba 1-78
+test-project/node_modules/typescript/dist/enums/typeFlags.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/typeFlags.js
+  h_fc6db9a3926aba 1-78
+test-project/node_modules/typescript/dist/enums/typeFlags.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/typePredicateKind.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/dist/enums/typePredicateKind.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/typePredicateKind.enum.d.ts
+  h_fc6db9a3926aba 1-7
+test-project/node_modules/typescript/dist/enums/typePredicateKind.enum.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/typePredicateKind.enum.js
+  h_fc6db9a3926aba 1-9
+test-project/node_modules/typescript/dist/enums/typePredicateKind.enum.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/enums/typePredicateKind.js
+  h_fc6db9a3926aba 1-9
+test-project/node_modules/typescript/dist/enums/typePredicateKind.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/internal/utils.d.ts
+  h_fc6db9a3926aba 1-23
+test-project/node_modules/typescript/dist/internal/utils.d.ts.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/dist/internal/utils.js
+  h_fc6db9a3926aba 1-25
+test-project/node_modules/typescript/dist/internal/utils.js.map
+  h_fc6db9a3926aba 1
+test-project/node_modules/typescript/lib/getExePath.d.ts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/lib/getExePath.js
+  h_fc6db9a3926aba 1-70
+test-project/node_modules/typescript/lib/tsc.js
+  h_fc6db9a3926aba 1-28
+test-project/node_modules/typescript/lib/version.cjs
+  h_fc6db9a3926aba 1-3
+test-project/node_modules/typescript/lib/version.d.cts
+  h_fc6db9a3926aba 1-2
+test-project/node_modules/typescript/package.json
+  h_fc6db9a3926aba 1-87
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/License.txt
+  h_fc6db9a3926aba 1-11
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/README.md
+  h_fc6db9a3926aba 1-54
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/browser/main.d.ts
+  h_fc6db9a3926aba 1-17
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/browser/main.js
+  h_fc6db9a3926aba 1-83
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/browser/ril.d.ts
+  h_fc6db9a3926aba 1-22
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/browser/ril.js
+  h_fc6db9a3926aba 1-210
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/api.d.ts
+  h_fc6db9a3926aba 1-14
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/api.js
+  h_fc6db9a3926aba 1-87
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/cancellation.d.ts
+  h_fc6db9a3926aba 1-32
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/cancellation.js
+  h_fc6db9a3926aba 1-132
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/connection.d.ts
+  h_fc6db9a3926aba 1-367
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/connection.js
+  h_fc6db9a3926aba 1-1271
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/disposable.d.ts
+  h_fc6db9a3926aba 1-9
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/disposable.js
+  h_fc6db9a3926aba 1-16
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/encoding.d.ts
+  h_fc6db9a3926aba 1-52
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/encoding.js
+  h_fc6db9a3926aba 1-70
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/events.d.ts
+  h_fc6db9a3926aba 1-39
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/events.js
+  h_fc6db9a3926aba 1-135
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/is.d.ts
+  h_fc6db9a3926aba 1-7
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/is.js
+  h_fc6db9a3926aba 1-34
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/linkedMap.d.ts
+  h_fc6db9a3926aba 1-55
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/linkedMap.js
+  h_fc6db9a3926aba 1-412
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/messageBuffer.d.ts
+  h_fc6db9a3926aba 1-18
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/messageBuffer.js
+  h_fc6db9a3926aba 1-155
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/messageReader.d.ts
+  h_fc6db9a3926aba 1-77
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/messageReader.js
+  h_fc6db9a3926aba 1-246
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/messageWriter.d.ts
+  h_fc6db9a3926aba 1-60
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/messageWriter.js
+  h_fc6db9a3926aba 1-157
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/messages.d.ts
+  h_fc6db9a3926aba 1-369
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/messages.js
+  h_fc6db9a3926aba 1-436
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/ral.d.ts
+  h_fc6db9a3926aba 1-74
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/ral.js
+  h_fc6db9a3926aba 1-23
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/semaphore.d.ts
+  h_fc6db9a3926aba 1-10
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/semaphore.js
+  h_fc6db9a3926aba 1-74
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/sharedArrayCancellation.d.ts
+  h_fc6db9a3926aba 1-15
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/common/sharedArrayCancellation.js
+  h_fc6db9a3926aba 1-77
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/node/main.d.ts
+  h_fc6db9a3926aba 1-58
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/node/main.js
+  h_fc6db9a3926aba 1-289
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/node/ril.d.ts
+  h_fc6db9a3926aba 1-12
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/lib/node/ril.js
+  h_fc6db9a3926aba 1-163
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/package.json
+  h_fc6db9a3926aba 1-54
+test-project/node_modules/typescript/vendor/vscode-jsonrpc/typings/thenable.d.ts
+  h_fc6db9a3926aba 1-5
+test-project/node_modules/undici-types/LICENSE
+  h_fc6db9a3926aba 1-21
+test-project/node_modules/undici-types/README.md
+  h_fc6db9a3926aba 1-6
+test-project/node_modules/undici-types/agent.d.ts
+  h_fc6db9a3926aba 1-30
+test-project/node_modules/undici-types/api.d.ts
+  h_fc6db9a3926aba 1-43
+test-project/node_modules/undici-types/balanced-pool.d.ts
+  h_fc6db9a3926aba 1-30
+test-project/node_modules/undici-types/cache-interceptor.d.ts
+  h_fc6db9a3926aba 1-179
+test-project/node_modules/undici-types/cache.d.ts
+  h_fc6db9a3926aba 1-36
+test-project/node_modules/undici-types/client-stats.d.ts
+  h_fc6db9a3926aba 1-15
+test-project/node_modules/undici-types/client.d.ts
+  h_fc6db9a3926aba 1-134
+test-project/node_modules/undici-types/connector.d.ts
+  h_fc6db9a3926aba 1-37
+test-project/node_modules/undici-types/content-type.d.ts
+  h_fc6db9a3926aba 1-21
+test-project/node_modules/undici-types/cookies.d.ts
+  h_fc6db9a3926aba 1-30
+test-project/node_modules/undici-types/diagnostics-channel.d.ts
+  h_fc6db9a3926aba 1-74
+test-project/node_modules/undici-types/dispatcher.d.ts
+  h_fc6db9a3926aba 1-253
+test-project/node_modules/undici-types/dispatcher1-wrapper.d.ts
+  h_fc6db9a3926aba 1-7
+test-project/node_modules/undici-types/env-http-proxy-agent.d.ts
+  h_fc6db9a3926aba 1-22
+test-project/node_modules/undici-types/errors.d.ts
+  h_fc6db9a3926aba 1-187
+test-project/node_modules/undici-types/eventsource.d.ts
+  h_fc6db9a3926aba 1-66
+test-project/node_modules/undici-types/fetch.d.ts
+  h_fc6db9a3926aba 1-235
+test-project/node_modules/undici-types/formdata.d.ts
+  h_fc6db9a3926aba 1-108
+test-project/node_modules/undici-types/global-dispatcher.d.ts
+  h_fc6db9a3926aba 1-9
+test-project/node_modules/undici-types/global-origin.d.ts
+  h_fc6db9a3926aba 1-7
+test-project/node_modules/undici-types/h2c-client.d.ts
+  h_fc6db9a3926aba 1-73
+test-project/node_modules/undici-types/handlers.d.ts
+  h_fc6db9a3926aba 1-16
+test-project/node_modules/undici-types/header.d.ts
+  h_fc6db9a3926aba 1-165
+test-project/node_modules/undici-types/index.d.ts
+  h_fc6db9a3926aba 1-93
+test-project/node_modules/undici-types/interceptors.d.ts
+  h_fc6db9a3926aba 1-80
+test-project/node_modules/undici-types/mock-agent.d.ts
+  h_fc6db9a3926aba 1-68
+test-project/node_modules/undici-types/mock-call-history.d.ts
+  h_fc6db9a3926aba 1-111
+test-project/node_modules/undici-types/mock-client.d.ts
+  h_fc6db9a3926aba 1-27
+test-project/node_modules/undici-types/mock-errors.d.ts
+  h_fc6db9a3926aba 1-12
+test-project/node_modules/undici-types/mock-interceptor.d.ts
+  h_fc6db9a3926aba 1-98
+test-project/node_modules/undici-types/mock-pool.d.ts
+  h_fc6db9a3926aba 1-27
+test-project/node_modules/undici-types/package.json
+  h_fc6db9a3926aba 1-55
+test-project/node_modules/undici-types/patch.d.ts
+  h_fc6db9a3926aba 1-29
+test-project/node_modules/undici-types/pool-stats.d.ts
+  h_fc6db9a3926aba 1-19
+test-project/node_modules/undici-types/pool.d.ts
+  h_fc6db9a3926aba 1-39
+test-project/node_modules/undici-types/proxy-agent.d.ts
+  h_fc6db9a3926aba 1-36
+test-project/node_modules/undici-types/readable.d.ts
+  h_fc6db9a3926aba 1-68
+test-project/node_modules/undici-types/retry-agent.d.ts
+  h_fc6db9a3926aba 1-8
+test-project/node_modules/undici-types/retry-handler.d.ts
+  h_fc6db9a3926aba 1-125
+test-project/node_modules/undici-types/round-robin-pool.d.ts
+  h_fc6db9a3926aba 1-39
+test-project/node_modules/undici-types/snapshot-agent.d.ts
+  h_fc6db9a3926aba 1-113
+test-project/node_modules/undici-types/socks5-proxy-agent.d.ts
+  h_fc6db9a3926aba 1-25
+test-project/node_modules/undici-types/util.d.ts
+  h_fc6db9a3926aba 1-18
+test-project/node_modules/undici-types/utility.d.ts
+  h_fc6db9a3926aba 1-7
+test-project/node_modules/undici-types/webidl.d.ts
+  h_fc6db9a3926aba 1-346
+test-project/node_modules/undici-types/websocket.d.ts
+  h_fc6db9a3926aba 1-188
+test-project/package-lock.json
+  h_fc6db9a3926aba 1-928
+test-project/package.json
+  h_fc6db9a3926aba 1-18
+test-project/src/users/userService.ts
+  h_fc6db9a3926aba 1-10
+test-project/tests/userService.test.ts
+  h_fc6db9a3926aba 1-58
+test-project/tsconfig.json
+  h_fc6db9a3926aba 1-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0da69cdaf73199e39f601aa600893dd077599731",
+  "prompts": {},
+  "humans": {
+    "h_fc6db9a3926aba": {
+      "author": "JAISWAL Anmol <anmol.jaiswal@soprasteria.com>"
+    }
+  }
+}
